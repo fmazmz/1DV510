@@ -5,6 +5,8 @@ Page limitaition: 10
 
 Grade: A
 
+Written in: LateX
+
 ## Abstract
 This report assesses FIDO authentication’s effectiveness in improving cybersecurity compared
 to traditional password-based systems. Amid rising data breaches and phishing threats, the
