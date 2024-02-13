@@ -3,6 +3,7 @@ Language: Swedish
 
 Page limitaition: 10
 
+Grade: A
 
 ## Abstract
 This report assesses FIDO authentication’s effectiveness in improving cybersecurity compared
