@@ -1,5 +1,7 @@
 # 1DV510 - Academic Writing Course
 Language: Swedish
+Page limitaition: 10
+
 
 ## Abstract
 This report assesses FIDO authentication’s effectiveness in improving cybersecurity compared
